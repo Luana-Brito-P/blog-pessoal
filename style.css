@@ -112,3 +112,9 @@ footer{
     padding: 8px;
     text-align: center;
 }
+
+@media screen and (max-width: 450px) {
+    header{
+        position: static;
+    }    
+}
